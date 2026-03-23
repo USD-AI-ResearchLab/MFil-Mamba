@@ -85,3 +85,12 @@ bash dist_train.sh <model_variant> 1 /path/to/output --resume /path/to/checkpoin
 ## Acknowledgment
 Our codeis based on [Mamba](https://github.com/state-spaces/mamba), [VMamba](https://github.com/MzeroMiko/VMamba/tree/main) and [OpenMMLab](https://github.com/open-mmlab). Thanks for their amazing works.
 
+## Citation
+```BibTeX
+@article{Khadka2026mfil,
+  title={MFil-Mamba: Multi-Filter Scanning for Spatial Redundancy-Aware Visual State Space Models},
+  author={Puskal Khadka and KC Santosh},
+  journal={arXiv preprint arXiv:2603.20074},
+  year={2026}
+}
+```
